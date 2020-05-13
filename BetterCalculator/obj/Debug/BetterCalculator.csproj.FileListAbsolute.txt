@@ -1,0 +1,6 @@
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe.config
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.pdb
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csprojResolveAssemblyReference.cache
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.pdb
